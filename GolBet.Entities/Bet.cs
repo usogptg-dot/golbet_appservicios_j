@@ -12,7 +12,6 @@ namespace GolBet.Entities;
 
 
 
-
 public class Bet : AuditableEntity
 
 {
