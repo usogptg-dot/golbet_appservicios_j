@@ -7,8 +7,6 @@ using GolBet.Entities.Common;
 using GolBet.Entities.Enums;
 
 
-
-
 namespace GolBet.Entities;
 
 
